@@ -11,7 +11,7 @@ This repository is carefully organized:
 
 ## Basic Python
 
-### 1. Variables and Data Types
+### 1. variables_and_data_types/:
 - Fundamentals of variables and data types in Python.
 
 ### 2. Data Structures

@@ -14,7 +14,7 @@ class Tabuada:
 
     def __str__(self):
         if 1 <= self.num <= 10:
-            return 'Valor inválido. Digite um número entre 1 e 10.'
+            return f'Tabuada do {self.num}'
         else:
             return f' '
 

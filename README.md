@@ -42,12 +42,6 @@ This repository is carefully organized:
 ### 2. Scripting
 - Development of advanced scripts in Python.
 
-## Version Control
-
-### 1. Version Control I, II, and III
-- Effective use of version control with Git.
-
-
 ## Basic Data Analysis
 
 ### 1. Data Collection I and II
@@ -61,6 +55,11 @@ This repository is carefully organized:
 
 ### Project: Exploratory Data Analysis in Python
 - Separate repository for a practical project of exploratory data analysis.
+
+## Version Control
+
+### 1. Version Control I, II, and III
+- Effective use of version control with Git.
 
 ## Intermediate Data Analysis
 
